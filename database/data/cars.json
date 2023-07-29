@@ -1,0 +1,203 @@
+[
+      {
+        "model": "Toyota Camry",
+        "type": "Sedan"
+      },
+      {
+        "model": "Toyota Corolla",
+        "type": "Sedan"
+      },
+      {
+        "model": "Toyota Prius",
+        "type": "Hybrid"
+      },
+      {
+        "model": "Toyota RAV4",
+        "type": "SUV"
+      },
+      {
+        "model": "Toyota Highlander",
+        "type": "SUV"
+      },
+      {
+        "model": "Honda Civic",
+        "type": "Sedan"
+      },
+      {
+        "model": "Honda Accord",
+        "type": "Sedan"
+      },
+      {
+        "model": "Honda CR-V",
+        "type": "SUV"
+      },
+      {
+        "model": "Honda Pilot",
+        "type": "SUV"
+      },
+      {
+        "model": "Honda HR-V",
+        "type": "SUV"
+      },
+      {
+        "model": "Ford Mustang",
+        "type": "Sports Car"
+      },
+      {
+        "model": "Ford F-150",
+        "type": "Truck"
+      },
+      {
+        "model": "Ford Focus",
+        "type": "Hatchback"
+      },
+      {
+        "model": "Ford Escape",
+        "type": "SUV"
+      },
+      {
+        "model": "Ford Explorer",
+        "type": "SUV"
+      },
+      {
+        "model": "Chevrolet Silverado",
+        "type": "Truck"
+      },
+      {
+        "model": "Chevrolet Camaro",
+        "type": "Sports Car"
+      },
+      {
+        "model": "Chevrolet Equinox",
+        "type": "SUV"
+      },
+      {
+        "model": "Chevrolet Malibu",
+        "type": "Sedan"
+      },
+      {
+        "model": "Chevrolet Traverse",
+        "type": "SUV"
+      },
+      {
+        "model": "BMW 3 Series",
+        "type": "Sedan"
+      },
+      {
+        "model": "BMW 5 Series",
+        "type": "Sedan"
+      },
+      {
+        "model": "BMW X5",
+        "type": "SUV"
+      },
+      {
+        "model": "BMW 7 Series",
+        "type": "Sedan"
+      },
+      {
+        "model": "BMW i8",
+        "type": "Sports Car"
+      },
+      {
+        "model": "Mercedes-Benz C-Class",
+        "type": "Sedan"
+      },
+      {
+        "model": "Mercedes-Benz E-Class",
+        "type": "Sedan"
+      },
+      {
+        "model": "Mercedes-Benz S-Class",
+        "type": "Sedan"
+      },
+      {
+        "model": "Mercedes-Benz GLC",
+        "type": "SUV"
+      },
+      {
+        "model": "Mercedes-Benz GLE",
+        "type": "SUV"
+      },
+      {
+        "model": "Nissan Altima",
+        "type": "Sedan"
+      },
+      {
+        "model": "Nissan Rogue",
+        "type": "SUV"
+      },
+      {
+        "model": "Nissan Sentra",
+        "type": "Sedan"
+      },
+      {
+        "model": "Nissan Pathfinder",
+        "type": "SUV"
+      },
+      {
+        "model": "Nissan Maxima",
+        "type": "Sedan"
+      },
+      {
+        "model": "Volkswagen Golf",
+        "type": "Hatchback"
+      },
+      {
+        "model": "Volkswagen Jetta",
+        "type": "Sedan"
+      },
+      {
+        "model": "Volkswagen Passat",
+        "type": "Sedan"
+      },
+      {
+        "model": "Volkswagen Tiguan",
+        "type": "SUV"
+      },
+      {
+        "model": "Volkswagen Atlas",
+        "type": "SUV"
+      },
+      {
+        "model": "Hyundai Elantra",
+        "type": "Sedan"
+      },
+      {
+        "model": "Hyundai Sonata",
+        "type": "Sedan"
+      },
+      {
+        "model": "Hyundai Tucson",
+        "type": "SUV"
+      },
+      {
+        "model": "Hyundai Santa Fe",
+        "type": "SUV"
+      },
+      {
+        "model": "Hyundai Kona",
+        "type": "SUV"
+      },
+      {
+        "model": "Kia Optima",
+        "type": "Sedan"
+      },
+      {
+        "model": "Kia Sorento",
+        "type": "SUV"
+      },
+      {
+        "model": "Kia Sportage",
+        "type": "SUV"
+      },
+      {
+        "model": "Kia Forte",
+        "type": "Sedan"
+      },
+      {
+        "model": "Kia Soul",
+        "type": "Hatchback"
+      }
+    ]
+  
